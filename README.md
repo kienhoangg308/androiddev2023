@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
+* Name: Hoàng Trung Kiên
+* ID: BA11-059
+* Group ID: G1
 
